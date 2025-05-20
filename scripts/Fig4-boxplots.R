@@ -1,7 +1,7 @@
 ######### Boxplots and stats for Nif genes #########
 # Last Edited 05/20/2025 by Morgan Sobol
 
-setwd("/Users/zaj33/Library/Mobile Documents/com~apple~CloudDocs/Work/PostDoc/nitrogenase/nif_phylogenomics/figures/boxplots")
+setwd("/boxplots")
 
 library(ggpubr)
 library(ggplot2)
