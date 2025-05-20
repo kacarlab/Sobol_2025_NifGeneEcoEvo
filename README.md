@@ -1,9 +1,9 @@
 Repository for data, code, and figures associated with the manuscript:
 
-**"Full Title of Your Manuscript"**  
-*Author(s)*  
-[Journal or preprint server, Year]  
-[DOI or link to publication/preprint]
+**Ecological constraints and evolutionary trade-offs shape nitrogen fixation across
+habitats**  
+
+Morgan S. Sobol, Cécile Ané, Katherine McMahon, Betül Kaçar
 
 ## Overview
 This repository contains all files necessary to reproduce the analyses and figures presented in the manuscript. It is organized into three main directories:
