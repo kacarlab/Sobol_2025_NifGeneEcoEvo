@@ -2,7 +2,7 @@
 # Last Edited 05/20/2025 by Morgan Sobol
 
 
-setwd("/Users/zaj33/Library/Mobile Documents/com~apple~CloudDocs/Work/PostDoc/nitrogenase/nif_phylogenomics/phylolm/")
+setwd("/phylolm/")
 
 library(seecolor)
 library(ape)
